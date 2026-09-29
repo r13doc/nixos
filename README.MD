@@ -1,1 +1,1 @@
-# nixos
+Settings for Nixos.
